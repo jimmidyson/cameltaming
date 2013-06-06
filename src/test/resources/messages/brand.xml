@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sch:Brand xmlns:sch="schema.specsavers.com">
+	<sch:id>10000001</sch:id>
+	<sch:brandName>Brand Name</sch:brandName>
+	<sch:shortDescription>Hugo Boss</sch:shortDescription>
+	<sch:ownedBy>Someone</sch:ownedBy>
+	<sch:startDate>2007-03-30+01:00</sch:startDate>
+</sch:Brand>
